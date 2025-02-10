@@ -1,0 +1,82 @@
+{
+    "bookings": [
+      {
+        "id": "booking_001",
+        "accommodation_id": "accommodation_001",
+        "guest_name": "John Doe",
+        "guest_contact": "+251911234567",
+        "start_date": "2024-10-01",
+        "end_date": "2024-10-05",
+        "price": 750,
+        "currency": "USD",
+        "status": "confirmed",
+        "payment_status": "paid",
+        "guest_count": 4
+      },
+      {
+        "id": "booking_002",
+        "accommodation_id": "accommodation_002",
+        "guest_name": "Sara Ali",
+        "guest_contact": "+251912345678",
+        "start_date": "2024-09-15",
+        "end_date": "2024-09-18",
+        "price": 225,
+        "currency": "USD",
+        "status": "pending",
+        "payment_status": "unpaid",
+        "guest_count": 2
+      },
+      {
+        "id": "booking_003",
+        "accommodation_id": "accommodation_003",
+        "guest_name": "Abebe Kebede",
+        "guest_contact": "+251911987654",
+        "start_date": "2024-11-01",
+        "end_date": "2024-11-03",
+        "price": 360,
+        "currency": "USD",
+        "status": "confirmed",
+        "payment_status": "paid",
+        "guest_count": 2
+      },
+      {
+        "id": "booking_004",
+        "accommodation_id": "accommodation_004",
+        "guest_name": "Meseret Tesfaye",
+        "guest_contact": "+251913567890",
+        "start_date": "2024-12-01",
+        "end_date": "2024-12-05",
+        "price": 425,
+        "currency": "USD",
+        "status": "confirmed",
+        "payment_status": "paid",
+        "guest_count": 3
+      },
+      {
+        "id": "booking_005",
+        "accommodation_id": "accommodation_005",
+        "guest_name": "Hanna Gebre",
+        "guest_contact": "+251914789012",
+        "start_date": "2024-10-20",
+        "end_date": "2024-10-25",
+        "price": 1000,
+        "currency": "USD",
+        "status": "pending",
+        "payment_status": "unpaid",
+        "guest_count": 5
+      },
+      {
+        "id": "booking_006",
+        "accommodation_id": "accommodation_006",
+        "guest_name": "Solomon Assefa",
+        "guest_contact": "+251915123456",
+        "start_date": "2024-09-20",
+        "end_date": "2024-09-23",
+        "price": 270,
+        "currency": "USD",
+        "status": "confirmed",
+        "payment_status": "paid",
+        "guest_count": 2
+      }
+    ]
+  }

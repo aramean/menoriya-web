@@ -1,0 +1,154 @@
+{
+  "conversations": {
+    "conversationId1": {
+      "metadata": {
+        "participants": [
+          "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "2cglAPinWsa66M6p5F1dJnhTsxl2"
+        ],
+        "lastUpdated": 1630532950000
+      },
+      "messages": {
+        "messageId1": {
+          "senderId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "text": "Hello, how are you?",
+          "timestamp": 1630532800000,
+          "isRead": false
+        },
+        "messageId2": {
+          "senderId": "2cglAPinWsa66M6p5F1dJnhTsxl2",
+          "text": "I'm good! What about you?",
+          "timestamp": 1630532900000,
+          "isRead": true
+        },
+        "messageId3": {
+          "senderId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "text": "Just working on some projects.",
+          "timestamp": 1630532950000,
+          "isRead": false
+        }
+      }
+    },
+    "conversationId2": {
+      "metadata": {
+        "participants": [
+          "2cglAPinWsa66M6p5F1dJnhTsxl2",
+          "2e2HyC0MJbfIG8c3RlVFXeCYlhF2"
+        ],
+        "lastUpdated": 1630612900000
+      },
+      "messages": {
+        "messageId1": {
+          "senderId": "2cglAPinWsa66M6p5F1dJnhTsxl2",
+          "text": "Are we still on for dinner?",
+          "timestamp": 1630612800000,
+          "isRead": false
+        },
+        "messageId2": {
+          "senderId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "text": "Yes, what time?",
+          "timestamp": 1630612900000,
+          "isRead": true
+        }
+      }
+    },
+    "conversationId3": {
+      "metadata": {
+        "participants": [
+          "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "2cglAPinWsa66M6p5F1dJnhTsxl2"
+        ],
+        "lastUpdated": 1630699300000
+      },
+      "messages": {
+        "messageId1": {
+          "senderId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "text": "Did you finish the report?",
+          "timestamp": 1630699200000,
+          "isRead": false
+        },
+        "messageId2": {
+          "senderId": "2cglAPinWsa66M6p5F1dJnhTsxl2",
+          "text": "Almost done, should be ready by tomorrow.",
+          "timestamp": 1630699300000,
+          "isRead": true
+        }
+      }
+    },
+    "conversationId4": {
+      "metadata": {
+        "participants": [
+          "2cglAPinWsa66M6p5F1dJnhTsxl2",
+          "2e2HyC0MJbfIG8c3RlVFXeCYlhF2"
+        ],
+        "lastUpdated": 1630785700000
+      },
+      "messages": {
+        "messageId1": {
+          "senderId": "2cglAPinWsa66M6p5F1dJnhTsxl2",
+          "text": "What's the plan for the weekend?",
+          "timestamp": 1630785600000,
+          "isRead": false
+        },
+        "messageId2": {
+          "senderId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "text": "Thinking of going hiking. Interested?",
+          "timestamp": 1630785700000,
+          "isRead": true
+        }
+      }
+    },
+    "conversationId5": {
+      "metadata": {
+        "participants": [
+          "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "2cglAPinWsa66M6p5F1dJnhTsxl2"
+        ],
+        "lastUpdated": 1630872200000
+      },
+      "messages": {
+        "messageId1": {
+          "senderId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "text": "Have you seen the latest episode of that show?",
+          "timestamp": 1630872000000,
+          "isRead": false
+        },
+        "messageId2": {
+          "senderId": "2cglAPinWsa66M6p5F1dJnhTsxl2",
+          "text": "Yes, it was intense! Can't believe what happened.",
+          "timestamp": 1630872100000,
+          "isRead": true
+        },
+        "messageId3": {
+          "senderId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "text": "I know right! Let's talk about it later.",
+          "timestamp": 1630872200000,
+          "isRead": false
+        }
+      }
+    },
+    "conversationId6": {
+      "metadata": {
+        "participants": [
+          "biqBEBrycRd0PHn8qYIQjlCZxsS2",
+          "2e2HyC0MJbfIG8c3RlVFXeCYlhF2"
+        ],
+        "lastUpdated": 1630961100000
+      },
+      "messages": {
+        "messageId1": {
+          "senderId": "biqBEBrycRd0PHn8qYIQjlCZxsS2",
+          "text": "Hey, do you want to catch up later?",
+          "timestamp": 1630961000000,
+          "isRead": false
+        },
+        "messageId2": {
+          "senderId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+          "text": "Sure! What time works for you?",
+          "timestamp": 1630961100000,
+          "isRead": true
+        }
+      }
+    }
+  }
+}

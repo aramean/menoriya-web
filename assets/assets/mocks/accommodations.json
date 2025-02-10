@@ -1,0 +1,288 @@
+  {
+    "accommodations": [
+      {
+        "id": "accommodation_001",
+        "name": "Luxury Villa",
+        "location": {
+          "city": "Addis Ababa",
+          "country": "Ethiopia",
+          "address": "123 Bole Street",
+          "latitude": 9.03,
+          "longitude": 38.74
+        },
+        "price_per_night": 150,
+        "currency": "USD",
+        "rating": 4.8,
+        "images": [
+          "https://example.com/image1.jpg",
+          "https://example.com/image2.jpg"
+        ],
+        "amenities": [
+          "Free Wi-Fi",
+          "Air Conditioning",
+          "Pool",
+          "Parking",
+          "Gym"
+        ],
+        "description": "A luxury villa located in the heart of Addis Ababa. Perfect for families and groups.",
+        "host": {
+          "name": "John Doe",
+          "contact": "+251911234567"
+        },
+        "reviews": [
+          {
+            "reviewer": "Jane Smith",
+            "rating": 5,
+            "comment": "Amazing place, very clean and the host was super helpful!"
+          },
+          {
+            "reviewer": "Michael Johnson",
+            "rating": 4.5,
+            "comment": "Great stay, but a bit far from the main attractions."
+          }
+        ],
+        "availability": {
+          "start_date": "2024-10-01",
+          "end_date": "2024-10-10",
+          "is_available": true
+        },
+        "type_of_place": "",
+        "type_of_property": ""
+      },
+      {
+        "id": "accommodation_002",
+        "name": "Cozy Apartment",
+        "location": {
+          "city": "Mekelle",
+          "country": "Ethiopia",
+          "address": "456 Main Avenue",
+          "latitude": 13.49,
+          "longitude": 39.47
+        },
+        "price_per_night": 75,
+        "currency": "USD",
+        "rating": 4.2,
+        "images": [
+          "https://example.com/image3.jpg",
+          "https://example.com/image4.jpg"
+        ],
+        "amenities": [
+          "Free Wi-Fi",
+          "Kitchen",
+          "Washer",
+          "Parking"
+        ],
+        "description": "A cozy and affordable apartment in the center of Mekelle, ideal for solo travelers or couples.",
+        "host": {
+          "name": "Sara Ali",
+          "contact": "+251912345678"
+        },
+        "reviews": [
+          {
+            "reviewer": "David Brown",
+            "rating": 4.3,
+            "comment": "Nice place, very comfortable."
+          }
+        ],
+        "availability": {
+          "start_date": "2024-09-15",
+          "end_date": "2024-09-30",
+          "is_available": true
+        },
+        "type_of_place": "",
+        "type_of_property": ""
+      },
+      {
+        "id": "accommodation_003",
+        "name": "Modern Loft",
+        "location": {
+          "city": "Bahir Dar",
+          "country": "Ethiopia",
+          "address": "789 Lake Tana Avenue",
+          "latitude": 11.60,
+          "longitude": 37.38
+        },
+        "price_per_night": 120,
+        "currency": "USD",
+        "rating": 4.7,
+        "images": [
+          "https://example.com/image5.jpg",
+          "https://example.com/image6.jpg"
+        ],
+        "amenities": [
+          "Free Wi-Fi",
+          "Lake View",
+          "Breakfast Included",
+          "Parking"
+        ],
+        "description": "A beautiful loft with a stunning view of Lake Tana. Ideal for couples and solo travelers.",
+        "host": {
+          "name": "Abebe Kebede",
+          "contact": "+251911987654"
+        },
+        "reviews": [
+          {
+            "reviewer": "Sophia Williams",
+            "rating": 4.9,
+            "comment": "Fantastic place, the view was breathtaking!"
+          },
+          {
+            "reviewer": "Daniel Thompson",
+            "rating": 4.6,
+            "comment": "Very peaceful and well-kept loft."
+          }
+        ],
+        "availability": {
+          "start_date": "2024-11-01",
+          "end_date": "2024-11-15",
+          "is_available": true
+        },
+        "type_of_place": "",
+        "type_of_property": ""
+      },
+      {
+        "id": "accommodation_004",
+        "name": "Rustic Lodge",
+        "location": {
+          "city": "Lalibela",
+          "country": "Ethiopia",
+          "address": "111 Church Street",
+          "latitude": 12.03,
+          "longitude": 39.05
+        },
+        "price_per_night": 85,
+        "currency": "USD",
+        "rating": 4.5,
+        "images": [
+          "https://example.com/image7.jpg",
+          "https://example.com/image8.jpg"
+        ],
+        "amenities": [
+          "Free Wi-Fi",
+          "Mountain View",
+          "Breakfast Included",
+          "Hiking Trails"
+        ],
+        "description": "A rustic lodge nestled in the mountains of Lalibela, perfect for those looking to explore Ethiopia’s ancient churches.",
+        "host": {
+          "name": "Meseret Tesfaye",
+          "contact": "+251913567890"
+        },
+        "reviews": [
+          {
+            "reviewer": "Emily Davis",
+            "rating": 4.8,
+            "comment": "The location was great, and the staff was very friendly."
+          },
+          {
+            "reviewer": "James Miller",
+            "rating": 4.4,
+            "comment": "A charming lodge with beautiful surroundings."
+          }
+        ],
+        "availability": {
+          "start_date": "2024-12-01",
+          "end_date": "2024-12-20",
+          "is_available": true
+        },
+        "type_of_place": "",
+        "type_of_property": ""
+      },
+      {
+        "id": "accommodation_005",
+        "name": "Boutique Hotel",
+        "location": {
+          "city": "Gondar",
+          "country": "Ethiopia",
+          "address": "222 Fasilides Castle Road",
+          "latitude": 12.60,
+          "longitude": 37.47
+        },
+        "price_per_night": 200,
+        "currency": "USD",
+        "rating": 4.9,
+        "images": [
+          "https://example.com/image9.jpg",
+          "https://example.com/image10.jpg"
+        ],
+        "amenities": [
+          "Free Wi-Fi",
+          "Swimming Pool",
+          "Spa",
+          "Restaurant"
+        ],
+        "description": "A luxurious boutique hotel located near the historic Fasilides Castle in Gondar.",
+        "host": {
+          "name": "Hanna Gebre",
+          "contact": "+251914789012"
+        },
+        "reviews": [
+          {
+            "reviewer": "Laura White",
+            "rating": 5,
+            "comment": "Absolutely stunning hotel with excellent service!"
+          },
+          {
+            "reviewer": "Chris Johnson",
+            "rating": 4.7,
+            "comment": "Amazing amenities and beautiful design."
+          }
+        ],
+        "availability": {
+          "start_date": "2024-10-20",
+          "end_date": "2024-11-10",
+          "is_available": true
+        },
+        "type_of_place": "",
+        "type_of_property": ""
+      },
+      {
+        "id": "accommodation_006",
+        "name": "Beachfront Cottage",
+        "location": {
+          "city": "Awassa",
+          "country": "Ethiopia",
+          "address": "333 Lakeside Road",
+          "latitude": 7.06,
+          "longitude": 38.47
+        },
+        "price_per_night": 90,
+        "currency": "USD",
+        "rating": 4.3,
+        "images": [
+          "https://example.com/image11.jpg",
+          "https://example.com/image12.jpg"
+        ],
+        "amenities": [
+          "Free Wi-Fi",
+          "Beach Access",
+          "BBQ Area",
+          "Private Dock"
+        ],
+        "description": "A serene beachfront cottage with private access to Lake Awassa.",
+        "host": {
+          "name": "Solomon Assefa",
+          "contact": "+251915123456"
+        },
+        "reviews": [
+          {
+            "reviewer": "Megan Clarke",
+            "rating": 4.5,
+            "comment": "Beautiful location, loved the lake!"
+          },
+          {
+            "reviewer": "Robert King",
+            "rating": 4.2,
+            "comment": "Nice place, but could use some updates."
+          }
+        ],
+        "availability": {
+          "start_date": "2024-09-20",
+          "end_date": "2024-10-05",
+          "is_available": true
+        },
+        "type_of_place": "",
+        "type_of_property": ""
+      }
+    ]
+  }

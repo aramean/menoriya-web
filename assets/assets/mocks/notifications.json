@@ -1,0 +1,16 @@
+{
+    "notifications": {
+        "notificationId1": {
+            "userId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+            "message": "You have a new message from John.",
+            "timestamp": 1630532800000,
+            "isRead": false
+        },
+        "notificationId2": {
+            "userId": "2e2HyC0MJbfIG8c3RlVFXeCYlhF2",
+            "message": "Your booking request has been approved.",
+            "timestamp": 1630532900000,
+            "isRead": true
+        }
+    }
+}
